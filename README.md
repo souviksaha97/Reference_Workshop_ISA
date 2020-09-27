@@ -15,3 +15,5 @@ Reference Material for the PCB workshop
 [EEVblog Youtube](https://www.youtube.com/playlist?list=PLvOlSehNtuHvpVeLXSGlS7EBlY3zKfIXh)
 
 [Programming ATTiny85 with Arduino](https://create.arduino.cc/projecthub/arjun/programming-attiny85-with-arduino-uno-afb829)
+
+[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
